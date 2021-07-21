@@ -42,9 +42,9 @@ namespace LiftTruck.Server
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
-            app.UseBlazorFrameworkFiles();
-            app.UseStaticFiles();
+            app.UseHttpsRedirection(); //middleware for https request
+            app.UseBlazorFrameworkFiles(); //middleware
+            app.UseStaticFiles(); //middleware
 
             app.UseRouting();
 
