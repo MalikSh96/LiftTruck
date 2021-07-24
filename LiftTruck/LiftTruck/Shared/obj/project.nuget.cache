@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ZK57u9k0UG9r/i+P7+IQpiFV7W1/3bh1USzDNlNTTJAWh1YObRWc1C+qSbSTAcA2Ly7o0UZmhrF+ctWCnkiCqg==",
+  "dgSpecHash": "FzqfHlZIh3l/oI/c+HVBtwHyD1/Y3TQ9LLqUownWRijulWhIP9WA7qNYJzSD4D1y8/CoOohdXHTF5uMk+ClCpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\malik\\OneDrive\\Documents\\Projects\\LiftTruckProject\\LiftTruck\\LiftTruck\\Shared\\LiftTruck.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.7\\microsoft.aspnetcore.authorization.5.0.7.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.7\\microsoft.aspnetcore.components.5.0.7.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.7\\microsoft.aspnetcore.components.analyzers.5.0.7.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.7\\microsoft.aspnetcore.metadata.5.0.7.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\malik\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,15 +1,15 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-k1aDW1\/HKf5NiMFvhJ7urTAUMyNb0ZTox+doNIP\/\/gw=",
+      "hash": "sha256-rsQJgCzvPmsy9Tp2DIkAjkeeuXkpY5cxDexvfRfY4NQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-yk95Qg9j2YvS1MIGFzyQG2eMJl4wtdJvwb5lLx1Qcac=",
+      "hash": "sha256-kc2VPvpVo2nTNaP8zwT2XM7j0zgRIkQytHYxFzW2XAE=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
     {
-      "hash": "sha256-L3ojn6Z4Q4OwP1AJCHBw7tgy4N85YTvd4KtlvRZd3Lo=",
+      "hash": "sha256-NPVu9TiPMad4eIdUMD4DshGwyPEoy2VgddHYPYzK2AI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
@@ -25,7 +25,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "hash": "sha256-Nrk\/sxkTZ7u4RptdiqlrDIxD6Jn75o7P3ClM\/NmIZRo=",
+      "hash": "sha256-snJ5r\/ApdN7THmKIni\/fTc1P9sm25U03ISOM+4cDJPI=",
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll"
     },
     {
@@ -785,19 +785,19 @@
       "url": "_framework\/dotnet.5.0.6.js"
     },
     {
-      "hash": "sha256-HrZWWl9AuZgOucz811k56fJz28gmcDYVNUKcgYevFAU=",
+      "hash": "sha256-Pdrzxg4trlokX4P9D6RXNf9ZHTgjdXUsBE+JbPe+F30=",
       "url": "_framework\/LiftTruck.Shared.dll"
     },
     {
-      "hash": "sha256-Q6NyCaCTeCwT2EnbxKPkA0b4Kp3fMswukDg4iYQ2Y6U=",
+      "hash": "sha256-p2HYDI5HWYAGVI45iYrNXtpS0eTTIUhoD2bML0kKvVI=",
       "url": "_framework\/LiftTruck.Shared.pdb"
     },
     {
-      "hash": "sha256-gtvoKw+PLxa3HB\/p2Y2+Vi+9YzO9WOAfhwxChaJ3iXQ=",
+      "hash": "sha256-JZpnhPHM7HBgdQPjcP1myCgIb\/MygYDkmaTT5cZFDUw=",
       "url": "_framework\/LiftTruck.Client.dll"
     },
     {
-      "hash": "sha256-YwUIoUjZC6wguct3KWsoT2fgDWYbTfFTCkIOJqg1Zac=",
+      "hash": "sha256-AnTio+df5SCCVvmcFHAIpVUgn3iWzNoShLYnncdSS14=",
       "url": "_framework\/LiftTruck.Client.pdb"
     },
     {
@@ -805,11 +805,11 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Jaheo9dpveubY5XYKAASvNNifp8SwkYTsJihaLBJflQ=",
+      "hash": "sha256-wV6oNWvrEcLlVkmFcSY7wK7Dm9YPl9OCNSNz\/u8Ulck=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll.gz"
     },
     {
-      "hash": "sha256-9FDilcjZub6pP7tvQZIxO8WqcxVLeMkYyMcJvy5zZsE=",
+      "hash": "sha256-hT1jAsmI\/PNCIWa68raOW\/CAwWzTWGEDTvmGefPUQA8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll.gz"
     },
     {
@@ -825,7 +825,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll.gz"
     },
     {
-      "hash": "sha256-uR9QXbTCaNvgJ417Z66hbkxCnrhhVo+gF8C6b22aUSs=",
+      "hash": "sha256-76IqAgU\/HL6jCCjehWj1ZbWxhzzLWEHL3MWhcl\/8gjM=",
       "url": "_framework\/Microsoft.AspNetCore.Metadata.dll.gz"
     },
     {
@@ -1585,7 +1585,7 @@
       "url": "_framework\/dotnet.5.0.6.js.gz"
     },
     {
-      "hash": "sha256-mLlpWCdRvU2AybGFPXL+8hkLwOWqC8xBN4uAzOTZlVM=",
+      "hash": "sha256-hKqHB9ER1EmTOOQ39x1\/aDdcHk4QeKYI871jt3gdTJQ=",
       "url": "_framework\/LiftTruck.Shared.dll.gz"
     },
     {
@@ -1661,5 +1661,5 @@
       "url": "LiftTruck.Client.bundle.scp.css"
     }
   ],
-  "version": "oXyd47c0"
+  "version": "rhL+7QB0"
 };

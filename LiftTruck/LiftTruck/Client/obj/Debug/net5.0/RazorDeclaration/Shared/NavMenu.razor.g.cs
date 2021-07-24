@@ -90,7 +90,7 @@ using LiftTruck.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Client\Shared\NavMenu.razor"
+#line 33 "C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

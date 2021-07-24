@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftTruck.Server", "LiftTruck\Server\LiftTruck.Server.csproj", "{95EF34AB-EA26-4B55-A925-AF70D23091F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiftTruck.Server", "LiftTruck\Server\LiftTruck.Server.csproj", "{95EF34AB-EA26-4B55-A925-AF70D23091F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftTruck.Client", "LiftTruck\Client\LiftTruck.Client.csproj", "{42182C22-41A2-4911-83DE-C13DCE5B39FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiftTruck.Client", "LiftTruck\Client\LiftTruck.Client.csproj", "{42182C22-41A2-4911-83DE-C13DCE5B39FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiftTruck.Shared", "LiftTruck\Shared\LiftTruck.Shared.csproj", "{74BD8B1C-E959-4401-B71A-5402252BE3A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiftTruck.Shared", "LiftTruck\Shared\LiftTruck.Shared.csproj", "{74BD8B1C-E959-4401-B71A-5402252BE3A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

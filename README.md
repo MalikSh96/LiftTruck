@@ -41,4 +41,7 @@ app responds to `http` requests.
 Specified when the apps host is build and you can see that in the `Program.cs` file, which is done in 
 `CreateHostBuilder` method.
 
+### `OnInitializedAsync()`
+Is part of the component lifecycle.
+
 
