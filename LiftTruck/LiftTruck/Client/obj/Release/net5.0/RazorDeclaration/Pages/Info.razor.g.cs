@@ -82,7 +82,8 @@ using LiftTruck.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class Info : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/information")]
+    public partial class Info : InfoBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)

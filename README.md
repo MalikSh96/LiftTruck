@@ -8,7 +8,7 @@ application in one solution.
 
 2. **TBD**
 
-[YT link](https://www.youtube.com/watch?v=hnVh1yVmSAU&ab_channel=PatrickGod) used for information.
+[YT link](https://www.youtube.com/watch?v=hnVh1yVmSAU&ab_channel=PatrickGod) used for general information.
 
 ## Client project
 `Program.cs` is the starting point. Used to register new services written by ourselves or services used by 
@@ -43,5 +43,8 @@ Specified when the apps host is build and you can see that in the `Program.cs` f
 
 ### `OnInitializedAsync()`
 Is part of the component lifecycle.
+
+## Open Icons (oi)
+[OI Icons](https://useiconic.com/open)
 
 

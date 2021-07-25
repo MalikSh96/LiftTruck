@@ -6,21 +6,17 @@ using System.Threading.Tasks;
 
 namespace LiftTruck.Client.Pages
 {
-    public class InfoBase : ComponentBase
+    public class AboutUsBase : ComponentBase
     {
-        public string Name { get; set; } = "Muhannad Sharfo";
+        public string History { get; set; }
+        public string Name { get; set; } = "MyName IsThis";
         public int PhoneNumber { get; set; } = 12345678;
+        public string Address { get; set; } = "This is the Address 123";
 
-        public InfoBase()
+        public string SetHistory(string history)
         {
+            return history;
         }
-
-        public InfoBase(string name, int phoneNumber)
-        {
-            Name = name;
-            PhoneNumber = phoneNumber;
-        }
-
         public string GetName()
         {
             return Name;
@@ -31,5 +27,9 @@ namespace LiftTruck.Client.Pages
             return PhoneNumber;
         }
 
+        public string GetAddress()
+        {
+            return Address;
+        }
     }
 }

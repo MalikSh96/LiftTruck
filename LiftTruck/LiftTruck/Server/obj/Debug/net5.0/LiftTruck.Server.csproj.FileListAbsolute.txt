@@ -1,11 +1,3 @@
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.csprojAssemblyReference.cache
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.AssemblyInfoInputs.cache
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.AssemblyInfo.cs
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.csproj.CoreCompileInputs.cache
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.RazorAssemblyInfo.cache
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.RazorAssemblyInfo.cs
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\LiftTruck.Client.StaticWebAssets.xml
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\appsettings.json
@@ -43,6 +35,14 @@ C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\LiftTruck.Shared.dll
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\LiftTruck.Client.pdb
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\bin\Debug\net5.0\LiftTruck.Shared.pdb
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.csprojAssemblyReference.cache
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.AssemblyInfoInputs.cache
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.AssemblyInfo.cs
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.csproj.CoreCompileInputs.cache
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.RazorAssemblyInfo.cache
+C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\LiftTruck.Server.RazorAssemblyInfo.cs
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\staticwebassets\LiftTruck.Server.StaticWebAssets.Manifest.cache
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\staticwebassets\LiftTruck.Server.StaticWebAssets.xml
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Server\obj\Debug\net5.0\scopedcss\bundle\LiftTruck.Server.styles.css

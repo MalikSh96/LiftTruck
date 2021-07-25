@@ -1,0 +1,23 @@
+﻿@page "/services"
+@inherits ServiceBase
+
+<h1>Services offered</h1>
+<div class="personcars">
+    @{
+        string personcar = "Personcar";
+     }
+    <h3>Type: @SetCarType(personcar)</h3>
+</div>
+<div class="vans">
+    @{
+        string van = "vans";
+    }
+    <h3>Type: @SetCarType(van)</h3>
+</div>
+<div class="trucks">
+    @{
+        string truck = "truck";
+    }
+    <h3>Type: @SetCarType(truck)</h3>
+</div>
+

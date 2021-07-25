@@ -2,7 +2,6 @@ C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\bin\Debug\net5.0\LiftTruck.Shared.dll
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\bin\Debug\net5.0\ref\LiftTruck.Shared.dll
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\bin\Debug\net5.0\LiftTruck.Shared.pdb
-C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\obj\Debug\net5.0\LiftTruck.Shared.csprojAssemblyReference.cache
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\obj\Debug\net5.0\LiftTruck.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\obj\Debug\net5.0\LiftTruck.Shared.AssemblyInfoInputs.cache
 C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Shared\obj\Debug\net5.0\LiftTruck.Shared.AssemblyInfo.cs
