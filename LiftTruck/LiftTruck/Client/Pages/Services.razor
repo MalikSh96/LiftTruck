@@ -2,6 +2,19 @@
 @inherits ServiceBase
 
 <h1>Services offered</h1>
+<div class="services">
+    @{ 
+        string providedservice = "Insert provided service here";
+    }
+    <h3>Service provided: @SetServiceType(providedservice)</h3>
+    @{
+        string description = "description here";
+    }
+    <h3>Service provided: @SetServiceDescription(description)</h3>
+</div>
+<br />
+<br />
+<br />
 <div class="personcars">
     @{
         string personcar = "Personcar";
