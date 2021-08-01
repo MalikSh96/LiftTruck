@@ -23,6 +23,15 @@
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
     <script>navigator.serviceWorker.register('service-worker.js');</script>
+    
+    <!--
+        Theme related, want to save the theme value chosen by user, so the user input
+        does not get lost when page is refreshed, we save the value in local storage
+    -->
+    <script>
+        function addToLocalStorage(key, value) { localStorage[key] = value; }
+        function readLocalStorage(key) { return localStorage[key]; }
+    </script>
 </body>
 
 </html>

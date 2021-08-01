@@ -89,6 +89,45 @@ using LiftTruck.Client.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 30 "C:\Users\malik\OneDrive\Documents\Projects\LiftTruckProject\LiftTruck\LiftTruck\Client\Shared\MainLayout.razor"
+       
+    private string SelectedTheme { get; set; } = "Light";
+    private List<string> Themes = new List<string> { "Light", "Dark" };
+    private readonly string KeyTheme = "theme";
+
+    //getting the theme from previous website visit by client
+    protected override async Task OnInitializedAsync()
+    {
+        var themeFromLocalStorage = await js.InvokeAsync<string>("readLocalStorage", KeyTheme);
+        if(!string.IsNullOrEmpty(themeFromLocalStorage))
+            SelectedTheme = themeFromLocalStorage;
+    }
+
+    private string GetCssClass()
+    {
+        if (SelectedTheme == "Light")
+            return String.Empty;
+        else
+            return "dark-mode";
+    }
+
+    private bool IsSelectedTheme(string theme)
+    {
+        return theme == SelectedTheme;
+    }
+
+    //using async programming, so we use the keyword async
+    private async Task ChangingTheme(ChangeEventArgs e)
+    {
+        SelectedTheme = e.Value.ToString();
+        await js.InvokeVoidAsync("addToLocalStorage", KeyTheme, SelectedTheme);
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime js { get; set; }
     }
 }
 #pragma warning restore 1591

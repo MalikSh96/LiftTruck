@@ -196,12 +196,12 @@
       "netstandard.dll": "sha256-B6gmXEMfYgOuaOR1g1cGHLn2kDlZYAah4K2XNUZbTs4=",
       "System.Private.CoreLib.dll": "sha256-XY0bl1U8F\/iSbQzkmIHM8UtE\/R9VntZoy\/kMbvuMjTA=",
       "LiftTruck.Shared.dll": "sha256-Pdrzxg4trlokX4P9D6RXNf9ZHTgjdXUsBE+JbPe+F30=",
-      "LiftTruck.Client.dll": "sha256-VNPSkm5vH5egDVXzZR+2uQXvyrkO3HGVz+a6\/l0w9do="
+      "LiftTruck.Client.dll": "sha256-2bKLi3fjpuwKI1PHUh\/dMSrHxOkL7TFizwN6HNsmnEo="
     },
     "lazyAssembly": null,
     "pdb": {
       "LiftTruck.Shared.pdb": "sha256-p2HYDI5HWYAGVI45iYrNXtpS0eTTIUhoD2bML0kKvVI=",
-      "LiftTruck.Client.pdb": "sha256-IBL2Ibqo7KufsKXlXTvpU\/JCqjVhRWHVO2BG185lLWw="
+      "LiftTruck.Client.pdb": "sha256-epBHKeBJFeA1eyWV2ckL8XejEk3JZ8MwsXGTsnAHdWI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-OEDZp6noMH3AdT8qd0zd7ZXzy2CsPQ+CZeQnYmRoVWo=",

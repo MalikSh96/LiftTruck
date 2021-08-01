@@ -47,4 +47,10 @@ Is part of the component lifecycle.
 ## Open Icons (oi)
 [OI Icons](https://useiconic.com/open)
 
+### Implementing dark mode
+Followed this [tutorial](https://www.youtube.com/watch?v=a6W1e4QKYhw&ab_channel=gavilanch3) with own
+modifications implemented underway.
+
+With .Net5, components can now have their own css files, **css isolation**.
+
 
