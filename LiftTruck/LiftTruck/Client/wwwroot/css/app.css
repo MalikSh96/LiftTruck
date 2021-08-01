@@ -1,11 +1,48 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+/*implementing own css variables*/
+:root {
+    /*Default values, light theme*/
+    --background: white;
+    --font-color: black;
+    --hightlight: #f7f7f7;
+    --hightlight-2: #e2e3e5;
+    --link: #0366d6;
+}
+
+.dark-mode {
+    /*Default values, dark theme*/
+    --background: #02004b;
+    --font-color: white;
+    --hightlight: #393939;
+    --hightlight-2: #414648;
+    --link: #3ca4ff;
+}
+
+
+/*------------------------------*/
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 a, .btn-link {
-    color: #0366d6;
+    /*color: #0366d6;*/
+    color: var(--link);
+}
+
+.alert-secondary {
+    background-color: var(--hightlight-2);
+    color: var(--font-color);
+}
+
+.table {
+    color: var(--font-color);
+}
+
+div.main {
+    background-color: var(--background);
+    color: var(--font-color);
 }
 
 .btn-primary {

@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-S7EtoikUY8LiXU+Zb6pOwU3FgH7W2dHwcRTal1YwBGA=",
+      "hash": "sha256-yRzhXVhEHVjmdHB3EP6+ylcojsEA0j+eTZxQS5P5c2E=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -793,11 +793,11 @@
       "url": "_framework\/LiftTruck.Shared.pdb"
     },
     {
-      "hash": "sha256-VNPSkm5vH5egDVXzZR+2uQXvyrkO3HGVz+a6\/l0w9do=",
+      "hash": "sha256-2bKLi3fjpuwKI1PHUh\/dMSrHxOkL7TFizwN6HNsmnEo=",
       "url": "_framework\/LiftTruck.Client.dll"
     },
     {
-      "hash": "sha256-IBL2Ibqo7KufsKXlXTvpU\/JCqjVhRWHVO2BG185lLWw=",
+      "hash": "sha256-epBHKeBJFeA1eyWV2ckL8XejEk3JZ8MwsXGTsnAHdWI=",
       "url": "_framework\/LiftTruck.Client.pdb"
     },
     {
@@ -1589,7 +1589,7 @@
       "url": "_framework\/LiftTruck.Shared.dll.gz"
     },
     {
-      "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
+      "hash": "sha256-+R7bKGjscEouAQgYTT0Trnz\/yHJNSqq7Ilcn3XBqP0M=",
       "url": "css\/app.css"
     },
     {
@@ -1645,7 +1645,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-NJFX2Wf71dpjYNgfnjDBZkdfDoE2bXuvA7pWPEcBWUA=",
+      "hash": "sha256-BMXdscLj0VAaDz689CCulQxrAkRy0GvEI92zdr8MN5c=",
       "url": "index.html"
     },
     {
@@ -1653,13 +1653,13 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-NM\/n3pIY1RFc8xAYSrCL7vN1d4l3c3Md7Jh4Pw6uZBo=",
+      "hash": "sha256-0ULhy6oOnOM+KYtPGiWyqtZLNsq9khB7Gbc20cu7geo=",
       "url": "LiftTruck.Client.styles.css"
     },
     {
-      "hash": "sha256-QZTAwsVOhZ+7z0HhX6ey4bDXhgQQm7iq7S0QNSB8M24=",
+      "hash": "sha256-ceNfb6xdgvvMNrbE61+lUQV36KybjNwS1s8Ho915eC0=",
       "url": "LiftTruck.Client.bundle.scp.css"
     }
   ],
-  "version": "X2qJ5IEX"
+  "version": "wZEZ5pdp"
 };

@@ -1,12 +1,23 @@
 ﻿@inherits LayoutComponentBase
+@inject IJSRuntime js 
+    @*used in order for javascript to work in c# code*@
 
-<div class="page">
+<div class="page @GetCssClass()">
     <div class="sidebar">
         <NavMenu />
     </div>
 
     <div class="main">
         <div class="top-row px-4">
+            <!--Implementing functionality for dark mode-->
+            Theme
+            <select @onchange="ChangingTheme" style="margin-left: 1rem">
+                @foreach (var theme in Themes)
+                {
+                    <option selected="@IsSelectedTheme(theme)" value="@theme">@theme</option>
+                }
+            </select>
+            <!---->
             <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
         </div>
 
@@ -15,3 +26,37 @@
         </div>
     </div>
 </div>
+
+@code {
+    private string SelectedTheme { get; set; } = "Light";
+    private List<string> Themes = new List<string> { "Light", "Dark" };
+    private readonly string KeyTheme = "theme";
+
+    //getting the theme from previous website visit by client
+    protected override async Task OnInitializedAsync()
+    {
+        var themeFromLocalStorage = await js.InvokeAsync<string>("readLocalStorage", KeyTheme);
+        if(!string.IsNullOrEmpty(themeFromLocalStorage))
+            SelectedTheme = themeFromLocalStorage;
+    }
+
+    private string GetCssClass()
+    {
+        if (SelectedTheme == "Light")
+            return String.Empty;
+        else
+            return "dark-mode";
+    }
+
+    private bool IsSelectedTheme(string theme)
+    {
+        return theme == SelectedTheme;
+    }
+
+    //using async programming, so we use the keyword async
+    private async Task ChangingTheme(ChangeEventArgs e)
+    {
+        SelectedTheme = e.Value.ToString();
+        await js.InvokeVoidAsync("addToLocalStorage", KeyTheme, SelectedTheme);
+    }
+}
