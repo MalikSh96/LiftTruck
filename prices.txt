@@ -1,0 +1,29 @@
+TRANSPORT:
+Service ydelser: Priser starter fra Københavns Vestegn
+Generelt
+
+Personbil < 2tons:
+Transport - 0-19 km 600kr, -ekskl. moms
+Transport - 20-49 km 800kr, -ekskl. moms
+Transport - 50-89 km 1200kr, -ekskl. moms
+Transport - 90-150 km 1700kr, -ekskl. moms
+
+Biler > 2t
+Biler generelt:
+Transport - 0-19 km 700kr, -ekskl. moms
+Transport - 20-49 km 900kr, -ekskl. moms
+Transport - 50-89 km 1400kr, -ekskl. moms
+Transport - 90-150 km 2000kr, -ekskl. moms
+
+Aften-/nattillæg: 20% ekstra -ekskl. moms 
+
+Ekstra ydelser:
+Starthjælp: 	Ring og få et tilbud
+Trækning: 	Ring og få et tilbud
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+SKROT:
+Afhentning/køb af skrot + brugte biler: Send mail med info om person + bil
