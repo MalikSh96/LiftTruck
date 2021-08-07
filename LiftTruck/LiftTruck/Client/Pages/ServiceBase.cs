@@ -8,23 +8,26 @@ namespace LiftTruck.Client.Pages
 {
     public class ServiceBase : ComponentBase
     {
-        public string CarType { get; set; }
         public string ServiceProvided { get; set; }
-        public string ServiceDescription { get; set; }
-
-        public string SetCarType(string type)
-        {
-            return type;
-        }
+        public string Price { get; set; }
+        public string AddOn { get; set; }
 
         public string SetServiceType(string servicetype)
         {
-            return servicetype;
+            ServiceProvided = servicetype;
+            return ServiceProvided;
         }
 
-        public string SetServiceDescription(string description)
+        public string SetPrice(string price)
         {
-            return description;
+            Price = price;
+            return Price;
+        }
+
+        public string SetAddOn(string addOn)
+        {
+            AddOn = addOn;
+            return AddOn;
         }
     }
 }
