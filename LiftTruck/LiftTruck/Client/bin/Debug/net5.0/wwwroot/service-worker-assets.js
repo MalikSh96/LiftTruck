@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-1nTgzm3y4XaQvcehMbMJeHD8L0p5na0yp0MBjO6wgRw=",
+      "hash": "sha256-wrG3ndqFNSy4+4gQw1hwPVl\/EcNGHUUq7FiyvV04Kfw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -793,11 +793,11 @@
       "url": "_framework\/LiftTruck.Shared.pdb"
     },
     {
-      "hash": "sha256-1re9hPIo2JcDpvYMN9fTxZSnx28CCwzXMddDjT26slQ=",
+      "hash": "sha256-+FkTMX5z+MRc7t34snPDKzZkSxNStRaC5r2QWTo65Ag=",
       "url": "_framework\/LiftTruck.Client.dll"
     },
     {
-      "hash": "sha256-dPDfFrakOrOw83qekqw3bcmVkhkToR60KWO5iihALDw=",
+      "hash": "sha256-QlX7kLCRG2m6n3LxR\/Yg3am0vBh7TPvgoYfoItk9geA=",
       "url": "_framework\/LiftTruck.Client.pdb"
     },
     {
@@ -1589,7 +1589,7 @@
       "url": "_framework\/LiftTruck.Shared.dll.gz"
     },
     {
-      "hash": "sha256-P\/\/GUyHkq6G3gLaS9DezhsFziMi9PK0RGrKJc6biTC4=",
+      "hash": "sha256-mcZafFZ0NS5pFfdMeC9+v6g4E1I83xHPaQfUbj21Y\/E=",
       "url": "css\/app.css"
     },
     {
@@ -1665,5 +1665,5 @@
       "url": "LiftTruck.Client.bundle.scp.css"
     }
   ],
-  "version": "MHdBmm4B"
+  "version": "POGjpfZc"
 };

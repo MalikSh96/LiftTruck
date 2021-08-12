@@ -24,6 +24,7 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
 }
 
 a, .btn-link {
@@ -95,14 +96,17 @@ div.main {
     height: 500px;
     padding: 20px;
     width: 400px;
+    margin: 10px;
+    /*justify-content: space-between;*/
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
 }
 
 .LessThan2T {
-    
 }
 
 .HigherThan2T {
-    
+
 }
 
 .h1 {
@@ -131,4 +135,5 @@ div.main {
 
 .AddOns {
     color: red;
+    float: left;
 }
