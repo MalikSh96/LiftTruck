@@ -85,3 +85,50 @@ div.main {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+/*---------------------------------------------*/
+/*CSS design for Service*/
+.LessThan2T, .HigherThan2T {
+    background-color: rgb(187 8 0) /*#15172b*/;
+    border-radius: 20px;
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+    width: 400px;
+}
+
+.LessThan2T {
+    
+}
+
+.HigherThan2T {
+    
+}
+
+.h1 {
+    color: #eee;
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.h3 {
+    /*color: #eee;*/
+    /*font-family: sans-serif;*/
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.h5 {
+    height: 50px;
+    position: relative;
+    width: 100%;
+    /*color: #eee;*/
+    /*font-family: sans-serif;*/
+}
+
+.AddOns {
+    color: red;
+}

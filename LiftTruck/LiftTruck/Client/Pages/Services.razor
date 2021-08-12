@@ -1,100 +1,100 @@
 ﻿@page "/services"
 @inherits ServiceBase
-
-@*<body class="services">*@
+  
     <h1>Vi tilbyder følgende ydelser</h1>
-    <div class="LessThan2T">
-        <h3>Køretøjer der vejer mindre end 2ton (2000kg)</h3>
-        @{
-            string Transport = "Transport distance mellem 0 - 19 km";
-            string Price = "600kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-        <br />
-        @{
-            Transport = "Transport distance mellem 20 - 49 km";
-            Price = "800kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-        <br />
-        @{
-            Transport = "Transport distance mellem 50 - 89 km";
-            Price = "1200kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-        <br />
-        @{
-            Transport = "Transport distance mellem 90 - 150 km";
-            Price = "1700kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-    </div>
+    <div class="standard">
+        <div class="LessThan2T">
+            <h3>Køretøjer der vejer mindre end 2ton (2000kg)</h3>
+            @{
+                string Transport = "Transport distance mellem 0 - 19 km";
+                string Price = "600kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 20 - 49 km";
+                Price = "800kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 50 - 89 km";
+                Price = "1200kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 90 - 150 km";
+                Price = "1700kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+        </div>
 
-    <br />
-    <br />
+        <br />
+        <br />
 
-    <div class="HigherThan2T">
-        <h3>Køretøjer der vejer over 2ton (2000kg)</h3>
-        @{
-            Transport = "Transport distance mellem 0 - 19 km";
-            Price = "700kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
+        <div class="HigherThan2T">
+            <h3>Køretøjer der vejer over 2ton (2000kg)</h3>
+            @{
+                Transport = "Transport distance mellem 0 - 19 km";
+                Price = "700kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 20 - 49 km";
+                Price = "900kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 50 - 89 km";
+                Price = "1400kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+            <br />
+            @{
+                Transport = "Transport distance mellem 90 - 150 km";
+                Price = "2000kr, -ekskl. moms";
+            }
+            <h5>
+                Service ydelse: @SetServiceType(Transport)
+                Pris: @SetPrice(Price)
+            </h5>
+        </div>
         <br />
-        @{
-            Transport = "Transport distance mellem 20 - 49 km";
-            Price = "900kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-        <br />
-        @{
-            Transport = "Transport distance mellem 50 - 89 km";
-            Price = "1400kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
-        <br />
-        @{
-            Transport = "Transport distance mellem 90 - 150 km";
-            Price = "2000kr, -ekskl. moms";
-        }
-        <h5>
-            Service ydelse: @SetServiceType(Transport)
-            Pris: @SetPrice(Price)
-        </h5>
+        <div class="AddOns">
+            @{
+                string addOn = "20% ekstra -ekskl. moms";
+            }
+            <h3>
+                <i>
+                    Der er aften-/nattillæg på @SetAddOn(addOn)
+                </i>
+            </h3>
+        </div>
     </div>
-    <br />
-    <div class="AddOns">
-        @{
-            string addOn = "20% ekstra -ekskl. moms";
-        }
-        <h3>
-            <i>
-                Der er aften-/nattillæg på @SetAddOn(addOn)
-            </i>
-        </h3>
-    </div>
-@*</body>*@
 
 
 
