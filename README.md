@@ -54,3 +54,13 @@ modifications implemented underway.
 With .Net5, components can now have their own css files, **css isolation**.
 
 
+#### Responsive Design
+[Link](https://www.bluecorona.com/faq/what-is-a-responsive-website-design/)
+
+#### Flex design
+[Link](https://flexboxfroggy.com/)
+
+##### Design templates for service page
+[link](https://codepen.io/dasshounak/pen/QWKKYdj)
+
+[link](https://codepen.io/ainalem/pen/GRqPwoz)

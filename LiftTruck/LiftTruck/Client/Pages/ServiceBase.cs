@@ -11,6 +11,7 @@ namespace LiftTruck.Client.Pages
         public string ServiceProvided { get; set; }
         public string Price { get; set; }
         public string AddOn { get; set; }
+        public string CallForOffer { get; set; }
 
         public string SetServiceType(string servicetype)
         {
@@ -28,6 +29,12 @@ namespace LiftTruck.Client.Pages
         {
             AddOn = addOn;
             return AddOn;
+        }
+
+        public string SetOffer(string offer)
+        {
+            CallForOffer = offer;
+            return CallForOffer;
         }
     }
 }
