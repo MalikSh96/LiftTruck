@@ -97,16 +97,13 @@ div.main {
     padding: 20px;
     width: 400px;
     margin: 10px;
-    /*justify-content: space-between;*/
-    /*display: flex;*/
-    /*flex-wrap: wrap;*/
 }
 
-.LessThan2T {
-}
-
-.HigherThan2T {
-
+.standard {
+    width: 85%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
 }
 
 .h1 {
@@ -135,5 +132,5 @@ div.main {
 
 .AddOns {
     color: red;
-    float: left;
+    /*float: left;*/
 }

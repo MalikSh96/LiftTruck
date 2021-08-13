@@ -84,6 +84,18 @@
             </h5>
         </div>
         <br />
+
+        <div class="extra">
+            <h3>Ekstra ydelser:</h3>
+            @{
+                string offer = "Ring og få et tilbud";
+            }
+            <h5>
+                Starthjælp: @SetOffer(offer) <br />
+                Trækning: @SetOffer(offer)
+            </h5>
+        </div>
+        <br />
         <div class="AddOns">
             @{
                 string addOn = "20% ekstra -ekskl. moms";
